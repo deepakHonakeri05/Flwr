@@ -1,0 +1,10 @@
+
+FROM tensorflow/tensorflow:latest
+
+
+RUN pip3 install flwr
+
+RUN mkdir quest
+WORKDIR /quest/
+
+COPY ./client2.py /quest/client2.py

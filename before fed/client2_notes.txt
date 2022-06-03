@@ -1,0 +1,3 @@
+Test Set Accuracy : 70.90%
+Training set :  8399 images belonging to 13 classes.
+Test set :  2567 images belonging to 13 classes.
